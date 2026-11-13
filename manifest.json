@@ -1,0 +1,10 @@
+{
+  "name": "BugOut",
+  "short_name": "BugOut",
+  "description": "A rede social de quem programa",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050507",
+  "theme_color": "#050507",
+  "icons": [{ "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
